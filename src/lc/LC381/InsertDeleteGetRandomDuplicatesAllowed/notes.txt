@@ -1,0 +1,12 @@
+To remove item fast from arrayList:
+	int endIndex;
+	set(toBeRemovedIndex, itemAtLastIndex);
+Keep track of an index yourself can help the performance...
+
+Accept at count/total probability does not actually work
+If there's three elements, each showed up once, two of them have the probability of 1/3 and one of them will have 4/9
+
+
+You can't use primitive types as generic arguments in Java.
+HashMap only accepts Integer not int, but when you do put/remove, autoboxing will kick in and take care of the overhead.
+
