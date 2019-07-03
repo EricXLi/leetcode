@@ -5,7 +5,7 @@ public class MainClass {
     	System.out.println("----------Start-----------");
     	long startTime = System.nanoTime();
     	
-    	lc.LC1014.bestSightseeingPair.RunnerClass.run();
+    	lc.LC423.reconstructOriginalDigitsfromEnglish.RunnerClass.run();;
     	
     	long endTime = System.nanoTime();
     	System.out.println("----------Finish----------");
