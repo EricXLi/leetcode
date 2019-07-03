@@ -5,7 +5,7 @@ public class MainClass {
     	System.out.println("----------Start-----------");
     	long startTime = System.nanoTime();
     	
-    	lc.LC150.EvaluateReversePolishNotation.RunnerClass.run();
+    	lc.LC1014.bestSightseeingPair.RunnerClass.run();
     	
     	long endTime = System.nanoTime();
     	System.out.println("----------Finish----------");
